@@ -1,0 +1,46 @@
+
+
+#weatherContent {
+  display: none;
+}
+
+.navbar {
+  height: 130px!important;
+}
+
+#cityStyle,
+#uvIndexColor,
+li {
+  color: #4D4F53!important;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+#search-results {
+  height: 110vh;
+}
+
+#fiveDay .card {
+  border: 1px solid rgba(138, 135, 135, 0.515)!important;
+}
+
+#searchHistory li {
+  background-color: #ffffff;
+  color: #000000!important;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+h2, h3, h4, h5 {
+  color: #040404;
+}
+
+body {
+  font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #ffffff;
+  font-weight: 600;
+}
